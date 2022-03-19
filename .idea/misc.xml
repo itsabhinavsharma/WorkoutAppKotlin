@@ -8,14 +8,19 @@
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/drawable/bg_start_btn_ripple.xml" value="0.208" />
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/drawable/custom_progress_bar.xml" value="0.208" />
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/drawable/custom_progress_bar_gray.xml" value="0.208" />
+        <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.208" />
+        <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/drawable/drawable_units_text_color_selector.xml" value="0.208" />
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.208" />
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/drawable/item_circular_thin_color_accent_border.xml" value="0.208" />
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/drawable/item_color_circular_accent_background.xml" value="0.208" />
-        <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/activity_calculate_bmi.xml" value="0.16965811965811967" />
+        <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/drawable/radio_group_tab_background.xml" value="0.208" />
+        <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/activity_calculate_bmi.xml" value="0.264" />
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/activity_exercise.xml" value="0.2" />
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/activity_finish.xml" value="0.264" />
-        <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/activity_history_page.xml" value="0.16965811965811967" />
+        <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/dialog_custom_back_conirmation.xml" value="0.264" />
+        <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/history_page_row.xml" value="0.16965811965811967" />
         <entry key="..\:/androidstudioprojects/WorkOutApp/app/src/main/res/layout/item_excersixe_status.xml" value="0.264" />
       </map>
     </option>

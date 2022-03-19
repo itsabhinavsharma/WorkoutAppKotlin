@@ -144,7 +144,7 @@ class ExerciseActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
       binding?.tvUpcomingExercise?.visibility = View.VISIBLE
       binding?.tvUpcomingExercise?.text = upcomingExercise.getExerciseName()
       textToSpeechStart("Next Exercise is ${upcomingExercise.getExerciseName()}")
-      timerDuration = 10000
+      timerDuration = 1000
       timerProgress = 0
       timerProgressMaxLimit = 10
       startTimer()
@@ -188,7 +188,7 @@ class ExerciseActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
          binding?.tvTimerTitle?.text = timerTitle
          binding?.ivExerciseImage?.setImageResource(currentExercise!!.getImage())
       }
-      timerDuration = 30000
+      timerDuration = 1000
       timerProgress = 0
       timerProgressMaxLimit = 30
 

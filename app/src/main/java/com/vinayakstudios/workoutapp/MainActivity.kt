@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
       startButtonOnClick()
       bmiButtonOnClick()
+      HistoryButtonOnClick()
    }
 
    private fun startButtonOnClick() {
@@ -33,6 +34,13 @@ class MainActivity : AppCompatActivity() {
    private fun bmiButtonOnClick(){
       binding?.flBmiBtn?.setOnClickListener{
          val intent  = Intent(this,CalculateBmiActivity::class.java)
+         startActivity(intent)
+      }
+   }
+
+   private fun HistoryButtonOnClick(){
+      binding?.flHistoryBtn?.setOnClickListener{
+         val intent = Intent(this,HistoryPageActivity::class.java)
          startActivity(intent)
       }
    }
